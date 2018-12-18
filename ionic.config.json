@@ -1,0 +1,7 @@
+{
+  "name": "QCB Test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
